@@ -1,8 +1,24 @@
-header {
-    display: fixed;
+.navbar-nav {
+    display: flex;
+    flex-direction: row;
+}
+
+li {
+    padding: 0 10px;
 }
 
 .max-width-960 {
     max-width: 960px;
     margin: 0 auto;
+    position: relative;
+}
+
+#headshot {
+    width: 25%;
+    height: auto;
+    float: left;
+}
+
+.space-between {
+    padding-top: 150px;
 }
