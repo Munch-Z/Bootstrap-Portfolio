@@ -1,10 +1,26 @@
+html, body {
+    background-image: url(images/leaves-pattern.png);
+}
+
 .navbar-nav {
     display: flex;
     flex-direction: row;
 }
 
+h2 {
+    font-size: 20px;
+}
+
 li {
     padding: 0 10px;
+}
+
+.white-background {
+    background-color: white;
+}
+
+section {
+    padding: 20px;
 }
 
 .max-width-960 {
@@ -17,6 +33,10 @@ li {
     width: 25%;
     height: auto;
     float: left;
+}
+
+#bio {
+    overflow: auto;
 }
 
 .space-between {
