@@ -1,2 +1,2 @@
 # Bootstrap-Portfolio
-REsponsive protfolio using bootstrap + some plain CSS.
+Responsive protfolio using bootstrap + some plain CSS.
