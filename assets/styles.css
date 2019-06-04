@@ -31,6 +31,7 @@ section {
     width: 25%;
     height: auto;
     float: left;
+    padding-right: 5px;
 }
 
 #bio {
@@ -40,3 +41,7 @@ section {
 .space-between {
     padding-top: 150px;
 }
+
+#messageInput {
+    height: 300px;
+} 

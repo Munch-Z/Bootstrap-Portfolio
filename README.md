@@ -1,2 +1,2 @@
 # Bootstrap-Portfolio
-Unit 2 Bootstrap
+Responsive protfolio using bootstrap + some plain CSS.
